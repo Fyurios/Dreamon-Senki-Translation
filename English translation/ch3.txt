@@ -2377,9 +2377,9 @@
 
 <AT23-4>
 テロップ：中央
-賢者の部屋を目の前にして、
-女学生にやられた主人公は、
-別の部屋に連れてこられていた。
+After being defeated by a female student
+in front of the sage's room,
+the protagonist was taken to another room.
 
 中等部生徒：上
 うふふ。おはよう。
